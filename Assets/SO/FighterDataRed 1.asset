@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ea95b82dbbdd4741826b112ff3d0122, type: 3}
+  m_Name: FighterDataRed 1
+  m_EditorClassIdentifier: 
+  colorTeam: 0
+  health: 30
+  speed: 2
+  viewRadius: 1000
+  attakRadius: 3
+  rateFire: 4
